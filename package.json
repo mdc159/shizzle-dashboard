@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@copilotkit/react-core": "^1.9.2",
-    "@copilotkit/react-ui": "^1.9.2",
-    "@copilotkit/runtime": "^1.9.2",
+    "@copilotkit/react-core": "1.9.2",
+    "@copilotkit/react-ui": "1.9.2",
+    "@copilotkit/runtime": "1.9.2",
     "@vercel/analytics": "^1.5.0",
     "@vercel/og": "^0.8.5",
     "@vercel/speed-insights": "^1.2.0",
